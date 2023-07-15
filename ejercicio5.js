@@ -8,7 +8,6 @@ function numeroPrimo(numero) {
   else {
     return true
   }
-
 }}
 
 console.log(numeroPrimo(22));
